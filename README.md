@@ -2,9 +2,8 @@
  Compiled Jar **jpmc-1.0-SNAPSHOT.jar** can be found in the output folder.<br><br>
  Use the folowing command to run the Jar :-<br>
  _java -cp jpmc-1.0-SNAPSHOT.jar jpmc.book.Application_
-<br>
+<br><br>
 **Please follow below instructions:**<br>
-<br>
 Add a new user and Login before calling Admin or Buyer Commands.
 <br><br>
 **AddUser** username admin|buyer<br>
