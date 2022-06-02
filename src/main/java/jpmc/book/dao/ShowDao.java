@@ -12,4 +12,5 @@ public interface ShowDao {
 
     List<String> getAvailableSeats(String showNumber);
 
+    List<Show> getAllShows();
 }

@@ -114,4 +114,8 @@ public class DataStore {
         return bookingsMap.get(show);
     }
 
+    public List<Show> getAllShows() {
+        return shows;
+    }
+
 }

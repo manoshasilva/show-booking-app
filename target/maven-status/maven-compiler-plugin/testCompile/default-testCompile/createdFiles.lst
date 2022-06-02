@@ -1,0 +1,7 @@
+jpmc/book/workflow/show/AvailabilityWorkflowTest.class
+jpmc/book/workflow/show/SetupShowWorkFlowTest.class
+jpmc/book/workflow/login/LogoffWorkflowTest.class
+jpmc/book/workflow/booking/BookingShowWorkflowTest.class
+jpmc/book/workflow/show/ViewShowWorkflowTest.class
+jpmc/book/workflow/user/AddUserWorkflowTest.class
+jpmc/book/workflow/login/LoginWorkflowTest.class

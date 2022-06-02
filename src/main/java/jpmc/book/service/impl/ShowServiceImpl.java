@@ -29,4 +29,9 @@ public class ShowServiceImpl implements ShowService {
         return showDao.getAvailableSeats(showNumber);
     }
 
+    @Override
+    public List<Show> getAllShows() {
+        return showDao.getAllShows();
+    }
+
 }

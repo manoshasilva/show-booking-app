@@ -23,4 +23,9 @@ public class ShowDaoImpl implements ShowDao {
         return DataStore.getInstance().getAvailableSeats(showNumber);
     }
 
+    @Override
+    public List<Show> getAllShows() {
+        return DataStore.getInstance().getAllShows();
+    }
+
 }

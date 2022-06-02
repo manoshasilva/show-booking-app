@@ -27,7 +27,7 @@ public class AuthServiceImpl implements AuthService {
             UserType loggedInUserType = loggedInUser.getUserType();
             List<Role> loggedInUsersRoles = UserRole.getRoles(loggedInUserType);
             if(!loggedInUsersRoles.contains(authorizedRole)) {
-                throw new BookAShowException("Not Authorized To This Function");
+                throw new BookAShowException("Not Authorized To Do This Function");
             }
         }
     }
