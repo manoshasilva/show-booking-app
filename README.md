@@ -1,6 +1,6 @@
 # show-booking-app
- show-booking-app<br>
- Built Jar is in the output folder.<br>
+ <br><br>
+ Compiled Jar **jpmc-1.0-SNAPSHOT.jar** can be found in the output folder.<br><br>
  Use the folowing command to run the Jar.<br>
  **java -cp jpmc-1.0-SNAPSHOT.jar jpmc.book.Application**
 <br><br>
